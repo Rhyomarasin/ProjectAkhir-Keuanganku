@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="putih">#ffff</color>
+    <color name="colorTransparantWhite">#00cccccc</color>
+    <color name="hitam">#000</color>
+    <color name="whitesmoke">#EEEEEE</color>
+    <color name="darkgrey">#2A2D26</color>
+    <color name="lightcyan">#C4F2FF</color>
+    <color name="colombiablue">#ACD1FD</color>
+    <color name="dodgerblue">#3B72FF</color>
+    <color name="koromiko">#FFB156</color>
+    <color name="chardonnay">#FFC278</color>
+    <color name="shamrock">#50DE89</color>
+    <color name="abu">#979FAD</color>
+    <color name="froly">#E45D68</color>
+    <color name="hijau">#A1ECBF</color>
+</resources>
